@@ -7,7 +7,8 @@ Nyttige links:
 - [Er det jul?](https://isitchristmas.com)
 
 ## Eksempel formatering:
-1. *Kursiv* freemhævning.
+1. *Kursiv* fremhævning.
+2. **fed** tekst
 
 -[Calender](https://sdu.itslearning.com/main.aspx?TextURL=Calendar%2fSchedule.aspx&Item=l-menu-calendar)
 
