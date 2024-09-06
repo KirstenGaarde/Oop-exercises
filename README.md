@@ -7,6 +7,6 @@ Nyttige links:
 - [Er det jul?](https://isitchristmas.com)
 
 ## Eksempel formatering:
-1. *Kursiv* tekst.
+1. *Kursiv* freemhævning.
 
 -[Calender](https://sdu.itslearning.com/main.aspx?TextURL=Calendar%2fSchedule.aspx&Item=l-menu-calendar)
