@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Skkg/softtek/1. semester/oop-exercises/C# lesson/C# lesson.csproj",
+      "projectUniqueName": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/C# lesson/C# lesson.csproj",
       "projectName": "C# lesson",
-      "projectPath": "/mnt/c/Users/Skkg/softtek/1. semester/oop-exercises/C# lesson/C# lesson.csproj",
+      "projectPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/C# lesson/C# lesson.csproj",
       "packagesPath": "/home/kigaa19/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Skkg/softtek/1. semester/oop-exercises/C# lesson/obj/",
+      "outputPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/C# lesson/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kigaa19/.nuget/NuGet/NuGet.Config"

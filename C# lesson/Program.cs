@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿float f;
+f = 1234567;
+double d;
+d = 123456789012345;
+f = (float) d;
+d = f;
+
