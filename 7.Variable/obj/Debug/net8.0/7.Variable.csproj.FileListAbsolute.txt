@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/bin/Debug/net8.0/7.Variable
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/bin/Debug/net8.0/7.Variable.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/bin/Debug/net8.0/7.Variable.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/bin/Debug/net8.0/7.Variable.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/bin/Debug/net8.0/7.Variable.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/refint/7.Variable.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/7.Variable.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.Variable/obj/Debug/net8.0/ref/7.Variable.dll
