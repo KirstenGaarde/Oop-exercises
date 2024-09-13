@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/bin/Debug/net8.0/Boolean
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/bin/Debug/net8.0/Boolean.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/bin/Debug/net8.0/Boolean.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/bin/Debug/net8.0/Boolean.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/bin/Debug/net8.0/Boolean.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/refint/Boolean.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/Boolean.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Boolean/obj/Debug/net8.0/ref/Boolean.dll
