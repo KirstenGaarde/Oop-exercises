@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/bin/Debug/net8.0/Epoch
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/bin/Debug/net8.0/Epoch.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/bin/Debug/net8.0/Epoch.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/bin/Debug/net8.0/Epoch.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/bin/Debug/net8.0/Epoch.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/refint/Epoch.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/Epoch.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/Debug/net8.0/ref/Epoch.dll

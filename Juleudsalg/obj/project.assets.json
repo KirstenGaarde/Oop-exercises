@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Epoch/Epoch.csproj",
+      "projectUniqueName": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/Epoch.csproj",
       "projectName": "Epoch",
-      "projectPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Epoch/Epoch.csproj",
+      "projectPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/Epoch.csproj",
       "packagesPath": "/home/kigaa19/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Epoch/obj/",
+      "outputPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Juleudsalg/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kigaa19/.nuget/NuGet/NuGet.Config"
