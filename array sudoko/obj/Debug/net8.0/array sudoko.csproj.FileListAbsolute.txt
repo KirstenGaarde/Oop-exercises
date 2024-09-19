@@ -1,0 +1,5 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array sudoko/obj/Debug/net8.0/array sudoko.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array sudoko/obj/Debug/net8.0/array sudoko.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array sudoko/obj/Debug/net8.0/array sudoko.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array sudoko/obj/Debug/net8.0/array sudoko.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array sudoko/obj/Debug/net8.0/array sudoko.sourcelink.json
