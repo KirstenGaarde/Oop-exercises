@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/bin/Debug/net8.0/funktioner
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/bin/Debug/net8.0/funktioner.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/bin/Debug/net8.0/funktioner.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/bin/Debug/net8.0/funktioner.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/bin/Debug/net8.0/funktioner.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/refint/funktioner.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/funktioner.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/funktioner/obj/Debug/net8.0/ref/funktioner.dll
