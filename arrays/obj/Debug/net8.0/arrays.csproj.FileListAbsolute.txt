@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/bin/Debug/net8.0/arrays
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/bin/Debug/net8.0/arrays.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/bin/Debug/net8.0/arrays.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/bin/Debug/net8.0/arrays.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/bin/Debug/net8.0/arrays.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/refint/arrays.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/arrays.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/arrays/obj/Debug/net8.0/ref/arrays.dll
