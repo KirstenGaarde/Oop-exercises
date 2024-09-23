@@ -1,0 +1,5 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/obj/Debug/net8.0/Oop-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/obj/Debug/net8.0/Oop-exercises.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/obj/Debug/net8.0/Oop-exercises.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/obj/Debug/net8.0/Oop-exercises.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/obj/Debug/net8.0/Oop-exercises.sourcelink.json

@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/bin/Debug/net8.0/Rekursion
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/bin/Debug/net8.0/Rekursion.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/bin/Debug/net8.0/Rekursion.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/bin/Debug/net8.0/Rekursion.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/bin/Debug/net8.0/Rekursion.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/refint/Rekursion.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/Rekursion.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Rekursion/obj/Debug/net8.0/ref/Rekursion.dll

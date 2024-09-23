@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/bin/Debug/net8.0/test
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/bin/Debug/net8.0/test.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/bin/Debug/net8.0/test.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/bin/Debug/net8.0/test.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/bin/Debug/net8.0/test.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/refint/test.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/test/obj/Debug/net8.0/ref/test.dll
