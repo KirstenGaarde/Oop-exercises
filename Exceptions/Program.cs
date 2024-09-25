@@ -2,20 +2,14 @@
 int [] array = {1,2,3,4,5};
 
 //increment
+for (int i=0; i < iterationer ; i++) {
 try{
-for (int i=0; i < iterationer ; i++)
-{
 	Console.WriteLine(array[i]);
 	array[i]++;
 }
-}
-catch {
+catch{
 	Console.WriteLine ("Du har oversteget maksimum prøv igen");
-	for (int i=0; i < 5 ; i++)
-	{
-	array[i]++;
-	Console.WriteLine(array[i]);
-	}
+}
 }
 //print
 for (int i=0; i<array.Length ; i++)
