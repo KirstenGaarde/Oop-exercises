@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Array/Array.csproj": {}
+    "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array/Array.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Array/Array.csproj": {
+    "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array/Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Array/Array.csproj",
+        "projectUniqueName": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array/Array.csproj",
         "projectName": "Array",
-        "projectPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Array/Array.csproj",
+        "projectPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array/Array.csproj",
         "packagesPath": "/home/kigaa19/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Array/obj/",
+        "outputPath": "/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/array/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kigaa19/.nuget/NuGet/NuGet.Config"

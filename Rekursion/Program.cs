@@ -28,3 +28,6 @@ double omkreds (int a) {
 	return pi * 2 * a;
 }
 Console.WriteLine ("Omkredsen er =" + omkreds(3));
+
+//Egen kvadaret rod
+double 

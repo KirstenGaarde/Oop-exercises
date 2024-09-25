@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("array sudoko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f994cc32d8a4239a2bbb48392628ebae97e5c624")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc316217ec42d628ad96e883a3d90fcb4fa9a267")]
 [assembly: System.Reflection.AssemblyProductAttribute("array sudoko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("array sudoko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

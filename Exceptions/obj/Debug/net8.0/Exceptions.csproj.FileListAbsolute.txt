@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/bin/Debug/net8.0/Exceptions
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/bin/Debug/net8.0/Exceptions.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/bin/Debug/net8.0/Exceptions.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/bin/Debug/net8.0/Exceptions.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/bin/Debug/net8.0/Exceptions.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/refint/Exceptions.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/Exceptions.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Exceptions/obj/Debug/net8.0/ref/Exceptions.dll
