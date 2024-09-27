@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/bin/Debug/net8.0/Funktioner_14.7
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/bin/Debug/net8.0/Funktioner_14.7.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/bin/Debug/net8.0/Funktioner_14.7.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/bin/Debug/net8.0/Funktioner_14.7.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/bin/Debug/net8.0/Funktioner_14.7.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/refint/Funktioner_14.7.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/Funktioner_14.7.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/Funktioner_14.7/obj/Debug/net8.0/ref/Funktioner_14.7.dll

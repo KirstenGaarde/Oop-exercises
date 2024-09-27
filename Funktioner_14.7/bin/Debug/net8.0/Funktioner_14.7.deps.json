@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Funktioner_14.7/1.0.0": {
+        "runtime": {
+          "Funktioner_14.7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funktioner_14.7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
