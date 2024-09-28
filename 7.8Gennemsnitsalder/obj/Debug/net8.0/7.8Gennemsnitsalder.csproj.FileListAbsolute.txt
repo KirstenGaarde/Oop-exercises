@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/bin/Debug/net8.0/7.8Gennemsnitsalder
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/bin/Debug/net8.0/7.8Gennemsnitsalder.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/bin/Debug/net8.0/7.8Gennemsnitsalder.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/bin/Debug/net8.0/7.8Gennemsnitsalder.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/bin/Debug/net8.0/7.8Gennemsnitsalder.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/refint/7.8Gennemsnitsalder.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/7.8Gennemsnitsalder.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.8Gennemsnitsalder/obj/Debug/net8.0/ref/7.8Gennemsnitsalder.dll
