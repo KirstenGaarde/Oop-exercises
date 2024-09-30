@@ -1,0 +1,15 @@
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.AssemblyInfoInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.AssemblyInfo.cs
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.sourcelink.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/bin/Debug/net8.0/7.3Celcius_fahrenheit.RIDER
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/bin/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.deps.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/bin/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.runtimeconfig.json
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/bin/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/bin/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/refint/7.3Celcius_fahrenheit.RIDER.dll
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.pdb
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/7.3Celcius_fahrenheit.RIDER.genruntimeconfig.cache
+/mnt/c/Users/Skkg/softtek/1. semester/Oop-exercises/7.3Celcius_Fahrenheit.RIDER/obj/Debug/net8.0/ref/7.3Celcius_fahrenheit.RIDER.dll
